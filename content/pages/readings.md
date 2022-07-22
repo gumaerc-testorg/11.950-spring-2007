@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6151abde-9e82-39b3-8d6f-81ddf57ea8cc
 ---
@@ -116,7 +119,7 @@ Stren, Richard, Marney Cohen, Holle Reed, and Mark R. Montgomery, eds. _Cities T
 
 World Bank. _World Development Report 2006: Equity and Development._ New York, NY: Oxford University Press, 2005, pp. 1-17.
 
-———. _Entering the 21st Century: World Development Report 1999-2000._ New York, NY: Oxford University Press, 2000.
+———. _Entering the 21{{< sup "st" >}} Century: World Development Report 1999-2000._ New York, NY: Oxford University Press, 2000.
 
 United Nations Centre for Human Settlements. _Cities in a Globalizing World:_ _Global Report on Human Settlements_. London, UK: Earthscan Publications, 2001, chapters 1-2. ISBN: 9781853838057.
 
