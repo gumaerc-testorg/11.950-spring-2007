@@ -139,7 +139,7 @@ Setting the context (3): Decentralization
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262524544) Bardhan, P., and D. Mookerjee, eds. [_Decentralization and Local Governance in Developing Countries_](https://mitpress.mit.edu/9780262524544). Cambridge, MA: MIT Press, 2006, chapter 1. ISBN: 9780262524544.
+{{% resource_link "4b99ee10-7b65-493f-bec1-e71b312db277" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bardhan, P., and D. Mookerjee, eds. {{% resource_link "4b99ee10-7b65-493f-bec1-e71b312db277" "_Decentralization and Local Governance in Developing Countries_" %}}. Cambridge, MA: MIT Press, 2006, chapter 1. ISBN: 9780262524544.
 
 Bardhan, P. "Decentralization of Governance and Development." _Journal of Economic Perspectives_ 16, no. 4 (2002): 185-205.
 
@@ -157,7 +157,7 @@ United Nations Development Programme. "Decentralized Governance for Development:
 
 Mabogunje, Akin L. "Local Institutions and an Urban Agenda for the 1990s." In _Urban Research in Developing Countries: Perspectives on the City._ Vol. 4. Edited by Richard Stren and Judith Kjellberg. Toronto, Canada: Centre for Urban and Community Studies, University of Toronto, 1995, chapter 2. ISBN: 9780772713711.
 
-Tulchin, Joseph S., and Andrew Selee, eds. "Decentralization and Democratic Governance In Latin America." In _Woodrow_ _Wilson Center Report on the Americas_. Introduction and chapter 1. ([PDF - 1.3 MB](https://www.wilsoncenter.org/publication/decentralization-and-democratic-governance-latin-america-no-12))
+Tulchin, Joseph S., and Andrew Selee, eds. "Decentralization and Democratic Governance In Latin America." In _Woodrow_ _Wilson Center Report on the Americas_. Introduction and chapter 1. ({{% resource_link "0722f9e6-8401-4318-9758-64e413b3fc17" "PDF - 1.3 MB" %}})
 
 Stren, Richard. "Local Governance and the Development of Associational Life: An Exploration." In _Democratic Governance and Urban Sustainability._ Edited by Joseph S. Tulchin, Diana H. Varat, and Blair A. Ruble. Woodrow Wilson International Center for Scholars, 2002.
 
@@ -221,7 +221,7 @@ Normative approaches (2): Social capital
 
 Putnam, Robert D., Robert Leonardi, and Raffaella Y. Nanetti. "Social Capital and Institutional Success." In _Making Democracy Work_. Princeton, NJ: Princeton University Press, 1994. ISBN: 9780691037387.
 
-Fukuyama, Francis. "[Social Capital and Civil Society](http://www.imf.org/external/pubs/ft/seminar/1999/reforms/fukuyama.htm)." IMF Working Paper, April 2000.
+Fukuyama, Francis. "{{% resource_link "ce04bc96-3ec1-48db-bb46-87ed46267e92" "Social Capital and Civil Society" %}}." IMF Working Paper, April 2000.
 
 Evans, Peter. "Government Action, Social Capital and Development: Reviewing the Evidence on Synergy." _World Development_ 24, no. 6 (1996): 1119-1132.
 
@@ -251,9 +251,9 @@ Normative approaches (3): Deliberation and the public sphere
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531146) Fraser, Nancy. "Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy." In [_Habermas and the Public Sphere_](https://mitpress.mit.edu/9780262531146). Edited by Craig Calhoun. Cambridge, MA: MIT Press, 1993. ISBN: 9780262531146.
+{{% resource_link "67b48794-53f0-442d-be4c-5f2f20d4e27a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fraser, Nancy. "Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy." In {{% resource_link "67b48794-53f0-442d-be4c-5f2f20d4e27a" "_Habermas and the Public Sphere_" %}}. Edited by Craig Calhoun. Cambridge, MA: MIT Press, 1993. ISBN: 9780262531146.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531146) Calhoun, Craig, ed. [_Habermas and the Public Sphere_](https://mitpress.mit.edu/9780262531146). Cambridge, MA: MIT Press, 1993, introduction. ISBN: 9780262531146.
+{{% resource_link "67b48794-53f0-442d-be4c-5f2f20d4e27a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Calhoun, Craig, ed. {{% resource_link "67b48794-53f0-442d-be4c-5f2f20d4e27a" "_Habermas and the Public Sphere_" %}}. Cambridge, MA: MIT Press, 1993, introduction. ISBN: 9780262531146.
 
 Cohen, J. "Procedure and Substance in Deliberative Democracy." In _Democracy and Difference: Contesting the Boundaries of the Political_. Edited by S. Benhabib. Princeton, NJ: Princeton University Press, 1996, pp. 95-109. ISBN: 9780691044798.
 
@@ -273,7 +273,7 @@ Bohman, J. "Citizenship and Norms of Publicity." _Political Theory_ 27 (1999): 1
 
 Hajer, M. A., and H. Wagenaar, eds. _Deliberative Policy Analysis: Understanding Governance in the Network Society_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521530705.
 
-Christens, Brian, and Paul W. Speer. "[Tyranny/Transformation: Power and Paradox in Participatory Development](http://www.qualitative-research.net/fqs-texte/2-06/06-2-22-e.htm)." _Forum: Qualitative Social Research_ 7, no. 2 (2006).
+Christens, Brian, and Paul W. Speer. "{{% resource_link "702a03ef-9feb-4504-8efc-8ea393ffcd16" "Tyranny/Transformation: Power and Paradox in Participatory Development" %}}." _Forum: Qualitative Social Research_ 7, no. 2 (2006).
 
 
 {{< tdclose >}}
